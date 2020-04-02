@@ -1,6 +1,6 @@
 import React from "react";
 
-import Palette from "./components/Palette";
+import Palette from "./components/Palette/Palette";
 import seedColors from "./seedColors";
 
 import "./App.css";
